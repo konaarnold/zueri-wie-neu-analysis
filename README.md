@@ -6,7 +6,7 @@ Spatial analysis of infrastructure issues in Zurich using ZüriWieNeu data.
 
 This project analyses reported infrastructure issues in Zurich using spatial and temporal analysis methods. The analysis combines infrastructure reports, statistical neighbourhood boundaries, and neighbourhood population data to investigate spatial patterns, temporal trends, and population-normalized reporting rates.
 
-The project includes choropleth maps, categoricsl analysis, and temporal analyses of reporting patterns across the Zurich neighbourhoods.
+The project includes choropleth maps, categorical analysis, and temporal analyses of reporting patterns across the Zurich neighbourhoods.
 
 ## Data sources
 
@@ -19,9 +19,9 @@ https://data.stadt-zuerich.ch/dataset/geo_statistische_quartiere
 - Population data
 https://data.stadt-zuerich.ch/dataset/bev_bestand_jahr_quartier_od3240
 
-The reports and statistical neighbourhoods datasets were downloaded on 04.05.2026.
+The reports and statistical neighbourhood datasets were downloaded on 04.05.2026.
 
-The population by neighbourhood dataset was downloaded on 12.05.2026
+The population dataset was downloaded on 12.05.2026
 
 ## Repository structure
 
