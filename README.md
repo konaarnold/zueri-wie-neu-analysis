@@ -26,8 +26,9 @@ The population dataset was downloaded on 12.05.2026
 ## Repository structure
 
 data/raw/: raw datasets  
+data/processed/: processed spatial datasets  
 notebooks/: Jupyter notebook  
-outputs/: exported figures and maps
+outputs/maps: exported maps
 
 ## Setup
 
