@@ -25,9 +25,9 @@ The population dataset was downloaded on 12.05.2026
 
 ## Repository structure
 
-data/raw/ → raw datasets  
-notebooks/ → Jupyter notebook  
-outputs/ → exported figures and maps
+data/raw/: raw datasets  
+notebooks/: Jupyter notebook  
+outputs/: exported figures and maps
 
 ## Setup
 
@@ -37,7 +37,9 @@ Required Python packages:
 - geopandas
 - matplotlib
 
-The analysis was created using the `sds-env` conda environment.
+The analysis was created using the sds-env conda environment.
+
+The complete environment can be recreated using the provided environment.yml file.
 
 ## Execution
 
