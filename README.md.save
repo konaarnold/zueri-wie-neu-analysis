@@ -1,0 +1,29 @@
+ # zueri-wie-neu-analysis
+
+Spatial analysis of infrastructure issues in Zurich using ZüriWieNeu data.
+
+## Project overview
+
+This project analyses reported infrastructure issues in Zurich using spatial and temporal analysis methods. The analysis combines infrastructure reports, statistical neighbourhood boundaries, and neighbourhood population data to investigate spatial patterns, temporal trends, and population-normalized reporting rates.
+
+The project includes choropleth maps, category analysis, and temporal analyses of reporting patterns across Zurich neighbourhoods.
+
+## Data sources
+
+- Züri wie neu reports:
+https://data.stadt-zuerich.ch/dataset/geo_zueri_wie_neu
+
+- Statistical neighbourhoods:
+https://data.stadt-zuerich.ch/dataset/geo_statistische_quartiere
+
+- Population data:
+https://data.stadt-zuerich.ch/dataset/bev_bestand_jahr_quartier_od3240
+
+All datasets were downloaded on 04.05.2026.
+
+## Repository structure
+
+data/raw/ → raw datasets  
+notebooks/ → Jupyter notebook  
+outputs/ Xx^x
+
