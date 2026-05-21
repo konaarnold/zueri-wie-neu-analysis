@@ -1,6 +1,6 @@
-# Züri wie neu analysis
+# Züri wie neu
 
-Spatial analysis of infrastructure issues in Zurich using ZüriWieNeu data.
+Spatial and temporal analysis of infrastructure reports in Zurich using ZüriWieNeu data.
 
 ## Project overview
 
