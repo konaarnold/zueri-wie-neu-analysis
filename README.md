@@ -28,13 +28,14 @@ The population dataset was downloaded on 12.05.2026
 data/raw/: raw datasets  
 data/processed/: processed spatial datasets  
 notebooks/: Jupyter notebook  
-outputs/maps: exported maps
+outputs/maps/: exported maps
 
 ## Setup
 
 The analysis was created using the sds-env conda environment.
 
 The complete environment can be recreated using the provided environment.yml file.
+
 Required Python packages:
 
 - pandas
