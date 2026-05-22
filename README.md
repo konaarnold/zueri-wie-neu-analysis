@@ -1,6 +1,4 @@
-# Züri wie neu
-
-Spatial and temporal analysis of infrastructure reports in Zurich using ZüriWieNeu data.
+# Spatial and Temporal Analysis of Infrastructure Reports in Zurich between 2014 and 2025
 
 ## Project overview
 
@@ -54,7 +52,7 @@ notebooks/zueri_wie_neu_analysis.ipynb
 
 Execute all cells from top to bottom.
 
-## AI use disclosure 
+## AI statement
 
 I used ChatGPT (OpenAI GPT-5.5) as an assistance tool during the preparation of this project to improve grammar and linguistic clarity, refine markdown explanations, improve code structure and readability, debug code, and improve the visual design and formatting of maps and graphs.
 
